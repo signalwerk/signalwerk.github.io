@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6e43c277432eb1df5ef8",
+    "revision": "f1f3f41ee952279b5a4d",
     "url": "/static/css/main.dcbfd869.chunk.css"
   },
   {
-    "revision": "6e43c277432eb1df5ef8",
-    "url": "/static/js/main.6e43c277.chunk.js"
+    "revision": "f1f3f41ee952279b5a4d",
+    "url": "/static/js/main.f1f3f41e.chunk.js"
   },
   {
     "revision": "d1e0a650f2c733476a1a",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/media/signalwerk.e7250b6a.svg"
   },
   {
-    "revision": "233d1a66ea7a60ed923471fc16856f86",
+    "revision": "d7bf1893f4f51443dfd1d22e19233d0b",
     "url": "/index.html"
   }
 ];
